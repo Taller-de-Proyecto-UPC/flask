@@ -1,0 +1,9 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+tensorflow==2.14.0
+tensorflow-hub==0.15.0
+requests== 2.31.0
+numpy==1.26.1
+opencv-python==4.8.1.78
+pillow== 10.1.0
+blinker== 1.7.0
